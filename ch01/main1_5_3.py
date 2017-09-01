@@ -9,10 +9,3 @@ print(x - y)
 print(x * y)
 
 print(x / y)
-
-xx = np.array([[1, 2], [3, 4]])
-print(xx)
-
-print(xx.shape)
-
-print(xx.dtype)
